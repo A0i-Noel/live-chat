@@ -9,7 +9,7 @@ This is the programmings which I made
 
 
 
-[Youtube Video: I don't really recommend to use ReactNative for the reason why you used React before](https://www.youtube.com/watch?v=UgHnaSK8UfE)
+[Youtube Video: Live chat TypeScript, API gateway, Lambda](https://youtu.be/TDV9mIyzhK8)
 
 # Development Environment
 
